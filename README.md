@@ -70,57 +70,14 @@ const carlos = {
 
 # 🧠 Tech Stack
 
-### 🎨 Frontend
+
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,materialui,cs,dotnet,nodejs,cypress,postgres,msql,git,github,postman,vscode, figma, gherkin " />
 
 </p>
 
-### ⚙️ Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
-
-</p>
-
-### 🗄️ Databases & Infrastructure
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" />
-
-</p>
-
-### 🔌 Tools & Integrations
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postman,vscode" />
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
-</p>
-
----
-
-# 🔥 Technologies I'm Working With
-
-<div align="center">
-
-```text
-Frontend              Backend              Infrastructure
-────────────────────────────────────────────────────────────
-React                 C# / .NET            Docker
-Next.js               REST APIs             Git
-TypeScript            Entity Framework      GitHub
-Tailwind CSS          Authentication        PostgreSQL
-                      Roles & Permissions
-```
-
-</div>
 
 ---
 
@@ -142,22 +99,6 @@ Tailwind CSS          Authentication        PostgreSQL
 
 </div>
 
-
-
-# 🧩 Current Developer Status
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  💻 Coding              ████████████████░░  │
-│  🧠 Learning             ██████████████░░░░ │
-│  🚀 Building             ███████████████░░░ │
-│  ☕ Drinking Coffee      ██████████████████ │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
 
 # 🎯 My Developer Philosophy
 
@@ -200,11 +141,11 @@ Tailwind CSS          Authentication        PostgreSQL
 <img src="https://img.shields.io/badge/GitHub-cnunez1108-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="TU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/juan-carlos-n/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="jcarlosn1108">
+<a href="jcarlosn1108@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
