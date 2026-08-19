@@ -62,7 +62,6 @@ I am a developer who enjoys building web applications and designing attractive a
 <img src="https://img.shields.io/badge/Testing-2563eb?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/APIs-06b6d4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-7c3aed?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-0891b2?style=for-the-badge&logoColor=white" />
 
 </div>
 
