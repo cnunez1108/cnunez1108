@@ -14,8 +14,11 @@
 </div>
 
 ---
+<div align="center">
+  
+I am a developer who enjoys building web applications and designing attractive and functional interfaces. I like turning ideas into simple, useful, and visually pleasing digital experiences. I also enjoy experimenting with new design approaches and constantly improving what I build.
 
-
+</div> 
 
 ---
 
@@ -69,12 +72,6 @@
 </div>
 
 ---
-<div align="center">
-  
-I am a developer who enjoys building web applications and designing attractive and functional interfaces. I like turning ideas into simple, useful, and visually pleasing digital experiences. I also enjoy experimenting with new design approaches and constantly improving what I build.
-
-
-</div> 
 
 # 🐍 Contribution Snake
 <div align="center">
