@@ -23,6 +23,14 @@ I am a developer who enjoys building web applications and designing attractive a
 
 ---
 
+# 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,materialui,cs,dotnet,nodejs,cypress,postgres,mysql,git,github,postman,vscode,figma,gherkin" />
+</p>
+
+---
+
 # 🌎 Let's Connect
 
 <div align="center">
@@ -40,29 +48,6 @@ I am a developer who enjoys building web applications and designing attractive a
 </a>
 
 </div>
-
----
-
-## 🚀 What I Do
-
-<div align="center">
-
-| 💻 Development |    ⚙️ Backend    |    🗄️ Data   | 🔌 Integrations |
-| :------------: | :--------------: | :-----------: | :-------------: |
-|    Web Apps    |       APIs       |   PostgreSQL  |       n8n       |
-|      React     |       .NET       |      SQL      |    REST APIs    |
-|     Next.js    |        C#        |   Databases   |       SaaS      |
-|   TypeScript   | Entity Framework |               |    Automation   |
-
-</div>
-
----
-
-# 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,materialui,cs,dotnet,nodejs,cypress,postgres,mysql,git,github,postman,vscode,figma,gherkin" />
-</p>
 
 ---
 
