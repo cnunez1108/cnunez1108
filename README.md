@@ -14,11 +14,32 @@
 </div>
 
 ---
+
 <div align="center">
   
 I am a developer who enjoys building web applications and designing attractive and functional interfaces. I like turning ideas into simple, useful, and visually pleasing digital experiences. I also enjoy experimenting with new design approaches and constantly improving what I build.
 
 </div> 
+
+---
+
+# 🌎 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/cnunez1108">
+<img src="https://img.shields.io/badge/GitHub-cnunez1108-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/juan-carlos-n/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="jcarlosn1108@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -71,26 +92,6 @@ I am a developer who enjoys building web applications and designing attractive a
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/cnunez1108/cnunez1108/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 🌎 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/cnunez1108">
-<img src="https://img.shields.io/badge/GitHub-cnunez1108-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/juan-carlos-n/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="jcarlosn1108@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
