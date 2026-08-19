@@ -68,7 +68,11 @@ I am a developer who enjoys building web applications and designing attractive a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cnunez1108&theme=tokyo-night&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=cnunez1108&bg_color=0d1117&color=58a6ff&line=238636&point=39d353&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
 
