@@ -23,15 +23,12 @@ I am a developer who enjoys building web applications and designing attractive a
 
 ---
 
-# 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,materialui,cs,dotnet,nodejs,cypress,postgres,mysql,git,github,postman,vscode,figma,gherkin" />
 </p>
 
 ---
-
-# 🌎 Let's Connect
 
 <div align="center">
 
@@ -51,16 +48,12 @@ I am a developer who enjoys building web applications and designing attractive a
 
 ---
 
-# 🎯 My Developer Philosophy
-
 > "First make it work.
 > Then make it clean.
 > Then make it scalable.
 > And finally... don't touch it if it's working." 😅
 
 ---
-
-# 📚 Currently Exploring
 
 <div align="center">
 
@@ -73,7 +66,6 @@ I am a developer who enjoys building web applications and designing attractive a
 
 ---
 
-# 🐍 Contribution Snake
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/cnunez1108/cnunez1108/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
