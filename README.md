@@ -15,41 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-```typescript
-const carlos = {
-    name: "Juan Carlos Nuñez",
-    username: "cnunez1108",
-
-    role: "Software Developer",
-
-    mindset: [
-        "Build",
-        "Learn",
-        "Break",
-        "Fix",
-        "Repeat"
-    ],
-
-    currentlyLearning: [
-        "Software Architecture",
-        "Testing",
-        "Cloud & Integrations",
-        "Advanced Backend Development"
-    ],
-
-    interests: [
-        "Web Development",
-        "APIs",
-        "Automation",
-        "Databases",
-        "System Architecture"
-    ],
-
-    funFact: "I don't always know how it works... but I know how to make it work 😎"
-};
-```
 
 ---
 
@@ -103,9 +69,14 @@ const carlos = {
 </div>
 
 ---
+<div align="center">
+  
+I am a developer who enjoys building web applications and designing attractive and functional interfaces. I like turning ideas into simple, useful, and visually pleasing digital experiences. I also enjoy experimenting with new design approaches and constantly improving what I build.
+
+
+</div> 
 
 # 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/cnunez1108/cnunez1108/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
