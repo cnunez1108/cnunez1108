@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Carlos Nuñez
+# 👋 Hey! I'm Juan Carlos Nuñez
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ```typescript
 const carlos = {
-    name: "Carlos Nuñez",
+    name: "Juan Carlos Nuñez",
     username: "cnunez1108",
 
     role: "Software Developer",
@@ -142,48 +142,7 @@ Tailwind CSS          Authentication        PostgreSQL
 
 </div>
 
----
 
-# 🛠️ Things I've Been Building
-
-### 🏢 ERP / SaaS Integrations
-
-Working on solutions that connect different systems and services into a unified platform.
-
-```text
-ERP / SaaS
-    │
-    ├── API
-    │
-    ├── n8n
-    │
-    ├── PostgreSQL
-    │
-    └── Backend
-          │
-          ▼
-      Unified Data
-          │
-          ▼
-       Dashboard
-```
-
-### 📊 Analytics & Dashboards
-
-Building dashboards with role-based access, permissions and external analytics integrations.
-
-### 🔐 Authentication & Authorization
-
-Working with:
-
-* Users
-* Roles
-* Permissions
-* Role-based navigation
-* Protected resources
-* API authorization
-
----
 
 # 🧩 Current Developer Status
 
@@ -191,9 +150,9 @@ Working with:
 ┌─────────────────────────────────────────────┐
 │                                             │
 │  💻 Coding              ████████████████░░  │
-│  🧠 Learning             ██████████████░░░░  │
-│  🚀 Building             ███████████████░░░  │
-│  ☕ Drinking Coffee      ██████████████████  │
+│  🧠 Learning             ██████████████░░░░ │
+│  🚀 Building             ███████████████░░░ │
+│  ☕ Drinking Coffee      ██████████████████ │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
