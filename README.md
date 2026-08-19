@@ -68,7 +68,7 @@ I am a developer who enjoys building web applications and designing attractive a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cnunez1108/cnunez1108/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cnunez1108&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
