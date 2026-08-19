@@ -81,25 +81,6 @@ const carlos = {
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cnunez1108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnunez1108&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cnunez1108&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
 # 🎯 My Developer Philosophy
 
 > "First make it work.
