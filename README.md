@@ -57,17 +57,6 @@ I am a developer who enjoys building web applications and designing attractive a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Architecture-0f172a?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing-2563eb?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-06b6d4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-7c3aed?style=for-the-badge&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=cnunez1108&bg_color=0d1117&color=58a6ff&line=238636&point=39d353&area=true&hide_border=true"
   width="100%"
