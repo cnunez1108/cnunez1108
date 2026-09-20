@@ -53,17 +53,6 @@ I am a developer who enjoys building web applications and designing attractive a
 > Then make it scalable.
 > And finally... don't touch it if it's working." 😅
 
----
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cnunez1108&bg_color=0d1117&color=58a6ff&line=238636&point=39d353&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
 
 ---
 
