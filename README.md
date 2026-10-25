@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Juan%20Carlos%20Nuñez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Juan%20Carlos%20Nuñez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 ### 💻 Software Engineer • 🖱️ Web Developer • 🚀 Builder • ☕ Coffee Powered
 
